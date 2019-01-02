@@ -1,1 +1,8 @@
+{"version_code":2,"content":"
+<p>تحديث 1.40</p>
 
+<li> التحديث لنسخة الماركت 71.0.0.18.102</li>
+<li> Many More Fixes</li>
+
+","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
+}
