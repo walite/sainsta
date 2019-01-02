@@ -1,4 +1,4 @@
-{"version_code":2,"content":"
+{"version_code":1,"content":"
 <p>تحديث 1.40</p>
 
 <li> التحديث لنسخة الماركت 71.0.0.18.102</li>
