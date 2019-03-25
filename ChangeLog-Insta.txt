@@ -1,16 +1,11 @@
-{"version_code":4,"content":"
-<p>تحديث 1.50</p>
+{"version_code":452565,"content":"
+<p>دعم الموقع</p>
 
-<li>التحديث لنسخة الماركت 78.0.0.11.104</li>
-<li>امكانية تحميل الصورة/ الفيديو من الحسابات الخاصة </li>
-<li>إضافة خيار لتعطيل السحب يمين/ يسار في الواجهة الرئيسية</li>
-<li>اصلاح كافة المشاكل السابقة في الاصدار 1.40</li>
+<li>رسالة دعم للموقع</li>
+<li>عزيزي المستخدم</li>
+<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
+<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
+<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
 
-
-<li>New Base Updated to 78.0.0.11.104</li>
-<li>Improved NOW you can Download Video/Images From Private Accounts</li>
-<li>Added Option to Disable Slide Navigation</li>
-<li>Fixed all bugs of v1.40</li>
-
-","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
+","url":"https://www.saif-mods.com/2018/01/instagram.html"
 }
