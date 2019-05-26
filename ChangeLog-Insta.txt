@@ -1,11 +1,22 @@
-{"version_code":30,"content":"
-<p>دعم الموقع</p>
+{"version_code":15,"content":"
+<p>تحديث</p>
 
-<li>رسالة دعم للموقع</li>
-<li>عزيزي المستخدم</li>
-<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
-<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
-<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
+<li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
+<li> اعادة إضافة ايقونة للدخول الى قسم الاضافات والخصائص في قسم البروفايل</li>
+<li> اعادة إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي</li>
+<li> اصلاح عدم امكانية تحميل الصور/الفيديوهات  من الحسابات الخاصة</li>
+<li> دعم نظام pie 9.0</li>
+<li> دعم اللغة الايطالية</li>
+<li> اصلاح انهيار التطبيق بنسبة 90%</li>
 
-","url":"https://www.saif-mods.com/2018/10/SAWhatsApp-3.00.html"
+<li> ReAdded Option to Start Audio Directly with Video</li>
+<li> ReAdded InstaUltra Settings Icon on Header of profile</li>
+<li> ReAdded Privacy - Hide View Status</li>
+<li> Support Italian languages (thanks to tony)</li>
+<li> Fixed Download Video/Images Options (private accounts)</li>
+<li> Fixed InstaUltra crash (90%)</li>
+
+
+
+","url":"https://www.devsaif.com/2019/03/Insta-Pro.html"
 }
