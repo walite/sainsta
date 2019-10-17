@@ -1,22 +1,10 @@
-{"version_code":15,"content":"
-<p>تحديث</p>
+{"version_code":30,"content":"
+<p>1.30 تحديث</p>
 
-<li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
-<li> اعادة إضافة ايقونة للدخول الى قسم الاضافات والخصائص في قسم البروفايل</li>
-<li> اعادة إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي</li>
-<li> اصلاح عدم امكانية تحميل الصور/الفيديوهات  من الحسابات الخاصة</li>
-<li> دعم نظام pie 9.0</li>
-<li> دعم اللغة الايطالية</li>
-<li> اصلاح انهيار التطبيق بنسبة 90%</li>
+<li>تحديث جديد</li>
 
-<li> ReAdded Option to Start Audio Directly with Video</li>
-<li> ReAdded InstaUltra Settings Icon on Header of profile</li>
-<li> ReAdded Privacy - Hide View Status</li>
-<li> Support Italian languages (thanks to tony)</li>
-<li> Fixed Download Video/Images Options (private accounts)</li>
-<li> Fixed InstaUltra crash (90%)</li>
+<li>New Update</li>
 
 
-
-","url":"https://www.devsaif.com/2019/03/Insta-Pro.html"
+","url":"https://www.syroid.co/2019/10/InstaPro.html"
 }
